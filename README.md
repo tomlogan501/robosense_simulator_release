@@ -10,8 +10,8 @@ These packages were released:
 Version of package(s) in repository `robosense_simulator`:
 
 - upstream repository: https://github.com/tomlogan501/robosense_simulator.git
-- release repository: unknown
-- rosdistro version: `null`
+- release repository: https://github.com/tomlogan501/robosense_simulator_release.git
+- rosdistro version: melodic
 - old version: `null`
 - new version: `1.0.0-1`
 
@@ -22,6 +22,3 @@ Versions of tools used:
 - rosdep version: `0.18.0`
 - rosdistro version: `0.8.0`
 - vcstools version: `0.1.42`
-
-
-# robosense_simulator_release
